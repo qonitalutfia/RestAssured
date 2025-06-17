@@ -1,0 +1,4 @@
+com\juaracoding\apitest\definitions\APIGroupCreateTest.class
+com\juaracoding\apitest\definitions\APIGroupListTest.class
+com\juaracoding\apitest\AppTest.class
+com\juaracoding\apitest\runners\Runner.class
